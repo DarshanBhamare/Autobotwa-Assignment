@@ -55,7 +55,6 @@ export function Features() {
                     <Icon className="w-7 h-7 text-blue-400" />
                   </div>
 
-                  {/* Content */}
                   <h3 className="text-xl font-semibold text-white mb-3">{feature.title}</h3>
                   <p className="text-slate-400 leading-relaxed">{feature.description}</p>
                 </div>
