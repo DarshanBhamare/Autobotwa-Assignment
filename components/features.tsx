@@ -39,7 +39,6 @@ export function Features() {
           </p>
         </div>
 
-        {/* Features Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {features.map((feature, index) => {
             const Icon = feature.icon
