@@ -16,7 +16,9 @@ export function Footer() {
             <p className="text-slate-400">Lightning-fast cloud hosting for modern web apps.</p>
           </div>
 
-          {/* Links Columns */}
+
+
+          
           <div>
             <h4 className="text-white font-semibold mb-4">Product</h4>
             <ul className="space-y-2 text-slate-400">
