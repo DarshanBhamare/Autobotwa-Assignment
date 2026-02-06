@@ -64,5 +64,6 @@ export function Features() {
         </div>
       </div>
     </section>
+    
   )
 }
